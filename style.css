@@ -5,6 +5,10 @@ body {
     line-height: 1.6;
   }
   
+  .home-icon img {
+    height: 50px;
+  }
+
   header {
     background: #333;
     color: white;
